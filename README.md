@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+</p>
+
 # osTicket - Ticket Lifecycle: Intake Through Resolution
 
 This project demonstrates the full lifecycle of a support ticket in osTicket, from the moment a user submits it to the moment it is closed. It is Part 3 of a three-part series and uses the help desk built in Parts 1 and 2.
@@ -5,6 +9,7 @@ This project demonstrates the full lifecycle of a support ticket in osTicket, fr
 ## Portfolio Project
 
 **Author:** Anthony Maleke
+
 **Contact:** [Linkedin](https://github.com/anthonymaleke/osticket-prereqs.git)
 
 ## Video Demonstration
