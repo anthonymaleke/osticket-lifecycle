@@ -10,7 +10,7 @@ This project demonstrates the full lifecycle of a support ticket in osTicket, fr
 
 **Author:** Anthony Maleke
 
-**Contact:** [Linkedin](https://github.com/anthonymaleke/osticket-prereqs.git)
+**Contact:** [Linkedin](https://www.linkedin.com/in/anthonymaleke/)
 
 ## Video Demonstration
 
@@ -21,7 +21,7 @@ This project demonstrates the full lifecycle of a support ticket in osTicket, fr
 | Part | Repository | Topic |
 |---|---|---|
 | 1 | [osticket-prereqs](https://github.com/anthonymaleke/osticket-prereqs) | Azure VM, IIS, PHP, database, osTicket installation |
-| 2 | [post-install-config](https://github.com/anthonymaleke/post-install-config) | Roles, departments, teams, agents, users, SLAs, help topics |
+| 2 | [post-install-config](https://github.com/anthonymaleke/osticket-post-install) | Roles, departments, teams, agents, users, SLAs, help topics |
 | 3 | **ticket-lifecycle** (this repo) | A ticket from intake to resolution |
 
 ## Environments and Technologies Used
