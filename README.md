@@ -14,7 +14,7 @@ This project demonstrates the full lifecycle of a support ticket in osTicket, fr
 
 ## Video Demonstration
 
-- [YouTube: osTicket Tutorial (Part 3 of 3) - Ticket Lifecycle](https://www.youtube.com/watch?v=REPLACE_ME)
+- [YouTube: osTicket Tutorial (Part 3 of 3) - Ticket Lifecycle](https://youtu.be/zBpV7ElqMwc)
 
 ## The Series
 
